@@ -21,3 +21,12 @@
    git status = Show the working tree status
    git diff = Show changes between commits, commit and working tree, etc
    git checkout =  Switch branches or restore working tree files
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+3. a) Show changes between commits, commit and working tree, etc
+   b) will only show changes to files in the "staged" area
+   c) eitthvað krakka shit
