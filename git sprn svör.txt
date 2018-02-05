@@ -14,3 +14,8 @@
 3. Fyrirbyggjandi viðhald er þegar þú ferð með tölvuna í viðgerð þótt það sé
    ekkert að tölvunni til að koma í veg fyrir bilun.
 
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+4. ESD stendur fyrir "Electrostatic discharge" og góð leið til
+   að koma í veg fyrir að það gerist er að jarða tækið.
+
