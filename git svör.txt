@@ -39,4 +39,7 @@
 5.Hverjir eru helstu kostir við að nota GIT?
 5. Þú færð að fá history yfir breytingum og getur unnið verkefni með félögum
 
- 
+
+6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6. Eins oft og þú gerir stórar breytingar
+
