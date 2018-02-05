@@ -1,0 +1,5 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er
+1. RAM er skammstöfunin fyrir "Random Access Memory". 
+  Ram er tímabundin geymsla fyrir gögnin sem eru í notkun á meðan
+  það er kveikt á tölvunni en þegar það er slökkt á henni tapast öll 
+  gögnin sem vöru í RAM-inu.

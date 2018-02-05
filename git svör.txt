@@ -1,0 +1,41 @@
+1. RAM er skammstöfunin fyrir "Random Access Memory". 
+  Ram er tímabundin geymsla fyrir gögnin sem eru í notkun á meðan
+  það er kveikt á tölvunni en þegar það er slökkt á henni tapast öll 
+  gögnin sem vöru í RAM-inu.
+
+2.ROM er skammstöfunin fyrir "Read Only Memory".
+  " The instructions stored in ROM include basic operation
+  instructions such as booting the computer and loading the 
+  operating system."
+
+3. Fyrirbyggjandi viðhald er þegar þú ferð með tölvuna í viðgerð þótt það sé
+   ekkert að tölvunni til að koma í veg fyrir bilun.
+
+4. ESD stendur fyrir "Electrostatic discharge" og góð leið til
+   að koma í veg fyrir að það gerist er að jarða tækið.
+
+5. Það sem þarf að hafa í huga þegar maður er að velja spennugjafa
+   er t.d. að það sé rétt spennumagn og að það sé ekki alltof há spenn eða of lág.
+
+6. 1. Identify the problem 
+   2. Establish a theory of probable cause 
+   3. Test the theory to determine cause 
+   4. Establish a plan of action to resolve the problem and implement the solution 
+   5. Verify full system functionality and, if applicable, implement preventive measures 
+   6. Document findings, actions and outcomes 
+
+7. Munurinn á opinni og lokaðri spurningu er að í lokaðri spurningu geturðu bara svarað t.d. já eða nei
+   en í opinni er hægt að svara með miklu meiri valmöguleikum
+
+8. Jaðartækin sjá um samskiptin milli þín og tölvunnar (miðverksins). 
+   Með þeim sendir þú gögn eða boð til tölvunnar og  árangurinn kemur í ljós á skjánum eða í útprentun.
+
+9. Lyklaborð, mús, heyrnartól.
+
+10. Tölvukassi: Thermaltake Versa N21 ATX turnkassi með glugga, hvítur - 15.000kr
+    Harður diskur: Seagate IronWolf 4TB diskur - 20.000kr
+    Skjákort: Asus GTX1070 Ti Turbo skjákort - 74.000kr
+    Minni: Corsair 16GB kit (2x8GB) DDR4 3000MHz, CL15, Vengeance LPX - 26.000kr
+    Örgjafi: Intel Core i7-8700 4.6GHz, Coffee Lake, 6-kjarna, 12MB cache - 46.000kr
+    Móðurborð: ASRock Z370 Extreme4 ATX LGA1151 móðurborð - 29.000kr
+    Aflgjafi: Corsair RM1000i aflgjafi - 39.000kr
