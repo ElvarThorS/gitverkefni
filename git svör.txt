@@ -56,3 +56,7 @@
    As you initially make commits, you're given a master branch that 
    points to the last commit you made. Every time you commit, it moves 
    forward automatically.
+
+
+9.Hver fann upp GIT?
+9. Linus Torvalds
