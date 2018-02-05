@@ -31,3 +31,8 @@ verjast því þegar unnið er með tölvubúnað?
    5. Verify full system functionality and, if applicable, implement preventive measures 
    6. Document findings, actions and outcomes 
 
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+7. Munurinn á opinni og lokaðri spurningu er að í lokaðri spurningu geturðu bara svarað t.d. já eða nei
+   en í opinni er hægt að svara með miklu meiri valmöguleikum
+
