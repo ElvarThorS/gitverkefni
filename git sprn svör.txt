@@ -36,3 +36,6 @@ Nefnið dæmi um báðar gerðir af spurningum.
 7. Munurinn á opinni og lokaðri spurningu er að í lokaðri spurningu geturðu bara svarað t.d. já eða nei
    en í opinni er hægt að svara með miklu meiri valmöguleikum
 
+8. Hvað eru jaðartæki?
+8. Jaðartækin sjá um samskiptin milli þín og tölvunnar (miðverksins). 
+   Með þeim sendir þú gögn eða boð til tölvunnar og  árangurinn kemur í ljós á skjánum eða í útprentun.
