@@ -30,3 +30,8 @@
 3. a) Show changes between commits, commit and working tree, etc
    b) will only show changes to files in the "staged" area
    c) eitthvað krakka shit
+
+
+4. Hvað er útgáfustýring (e.version control)? 
+4.Version control is a system that records changes to a file or 
+  set of files over time so that you can recall specific versions later
