@@ -8,4 +8,16 @@
    ls =  lists directory contents of files and directories
    pwd = sýnir hvaða directory þú ert í.
    mkdir = Make directory
-   
+ 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+2. git clone = Clone a repository into a new directory
+   git log = Show commit logs
+   git status = Show the working tree status
+   git diff = Show changes between commits, commit and working tree, etc
+   git checkout =  Switch branches or restore working tree files
