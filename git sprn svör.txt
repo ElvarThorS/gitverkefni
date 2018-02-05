@@ -19,3 +19,7 @@ verjast því þegar unnið er með tölvubúnað?
 4. ESD stendur fyrir "Electrostatic discharge" og góð leið til
    að koma í veg fyrir að það gerist er að jarða tækið.
 
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+5. Það sem þarf að hafa í huga þegar maður er að velja spennugjafa
+   er t.d. að það sé rétt spennumagn og að það sé ekki alltof há spenn eða of lág.
+
