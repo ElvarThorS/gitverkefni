@@ -42,3 +42,14 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 9. Nefndu þrjú dæmi um inntakstæki
 9. Lyklaborð, mús, heyrnartól.
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+10. Tölvukassi: Thermaltake Versa N21 ATX turnkassi með glugga, hvítur - 15.000kr
+    Harður diskur: Seagate IronWolf 4TB diskur - 20.000kr
+    Skjákort: Asus GTX1070 Ti Turbo skjákort - 74.000kr
+    Minni: Corsair 16GB kit (2x8GB) DDR4 3000MHz, CL15, Vengeance LPX - 26.000kr
+    Örgjafi: Intel Core i7-8700 4.6GHz, Coffee Lake, 6-kjarna, 12MB cache - 46.000kr
+    Móðurborð: ASRock Z370 Extreme4 ATX LGA1151 móðurborð - 29.000kr
+    Aflgjafi: Corsair RM1000i aflgjafi - 39.000kr
