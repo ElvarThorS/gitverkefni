@@ -48,3 +48,11 @@
 7. Working directory = Directoryið sem þú ert að vinna í.
    Staging area = Staging is a step before the commit process in git. 
    Repository = a digital directory or storage space where you can access your project
+
+
+8.Hvenær er sniðugt að nota greinar (branches)? 
+8. A branch in Git is simply a lightweight movable pointer 
+   to one of these commits. The default branch name in Git is master.
+   As you initially make commits, you're given a master branch that 
+   points to the last commit you made. Every time you commit, it moves 
+   forward automatically.
