@@ -9,3 +9,8 @@
   " The instructions stored in ROM include basic operation
   instructions such as booting the computer and loading the 
   operating system."
+
+3. Hvað er fyrirbyggjandi viðhald?
+3. Fyrirbyggjandi viðhald er þegar þú ferð með tölvuna í viðgerð þótt það sé
+   ekkert að tölvunni til að koma í veg fyrir bilun.
+
