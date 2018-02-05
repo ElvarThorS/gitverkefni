@@ -1,0 +1,11 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er
+1. RAM er skammstöfunin fyrir "Random Access Memory". 
+  Ram er tímabundin geymsla fyrir gögnin sem eru í notkun á meðan
+  það er kveikt á tölvunni en þegar það er slökkt á henni tapast öll 
+  gögnin sem vöru í RAM-inu.
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er
+2.ROM er skammstöfunin fyrir "Read Only Memory".
+  " The instructions stored in ROM include basic operation
+  instructions such as booting the computer and loading the 
+  operating system."
